@@ -8,25 +8,6 @@
 
 modify starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected
 
-  ## Table of Contents
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
-  - [Questions](#questions)
-  
-  ## Installation
-  Enter a Password
-
-  ## Usage
-  User must enter a password for the program the generate a password
-
-  ## License
-  None
-
-  ## Contributing
-  clone the Repo
-
   ## Tests
   open in browser in index.html
 
