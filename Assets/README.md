@@ -1,10 +1,10 @@
-# Password-Generator
-
 # Password Generator
 
-  [![license](https://img.shields.io/badge/license-None-red)](https://shields.io)
-
+## Link to Deployed Site: 
+  
+  
   ## Description 
+
 
 modify starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected
 
@@ -15,4 +15,4 @@ modify starter code to create an application that enables employees to generate 
 
   If you have any questions feel free to reach out!
   - GitHub: [krober45](https://github.com/krober45)
-  - Email: kroebr45@gmail.com
+  - Email: krober45@gmail.com
